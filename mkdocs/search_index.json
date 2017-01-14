@@ -26,14 +26,9 @@
             "title": "About"
         }, 
         {
-            "location": "/design-pattern/", 
-            "text": "", 
-            "title": "DesignPattern"
-        }, 
-        {
             "location": "/design-pattern/filter/", 
             "text": "", 
-            "title": "DesignPattern Filter Pattern"
+            "title": "Filter Pattern"
         }
     ]
 }
