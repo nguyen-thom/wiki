@@ -21,29 +21,14 @@
             "title": "Project layout"
         }, 
         {
-            "location": "/about/", 
-            "text": "", 
-            "title": "About"
-        }, 
-        {
             "location": "/design-pattern/filter/", 
-            "text": "# Filter Pattern\n\n\nProblem\n\n\n\n\nC\u00e1ch gi\u1ea3i quy\u1ebft\n\n\nb\u1ea1n c\u00f3 th\u1ec3 download t\u1ea1i \n\u0111\u00e2y", 
-            "title": "Filter Pattern"
-        }, 
-        {
-            "location": "/design-pattern/filter/#35-filter-pattern", 
             "text": "", 
-            "title": "# Filter Pattern"
+            "title": "Filter"
         }, 
         {
-            "location": "/design-pattern/filter/#problem", 
+            "location": "/design-pattern/", 
             "text": "", 
-            "title": "Problem"
-        }, 
-        {
-            "location": "/design-pattern/filter/#cach-giai-quyet", 
-            "text": "b\u1ea1n c\u00f3 th\u1ec3 download t\u1ea1i  \u0111\u00e2y", 
-            "title": "C\u00e1ch gi\u1ea3i quy\u1ebft"
+            "title": "Home"
         }
     ]
 }
